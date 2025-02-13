@@ -1,3 +1,7 @@
+<div style="border-radius: 20px; overflow: hidden;">
+    <img src="assets/company-logos/current-logo.png" alt="GeneriCorp Logo">
+</div>
+
 # GeneriCorp Dataset
 This repository represents a corpus of documents all in support of a fictional company called **GeneriCorp**. In the `genericorp/` directory, you will find subdirectories that contain many markdown files all in support of different attributes of this fake company, GeneriCorp. These range from topics like the aforementioned company history as well as how GeneriCorp uses some internally built tools to support their own operations.
 
