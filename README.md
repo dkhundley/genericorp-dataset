@@ -1,5 +1,5 @@
 <div style="border-radius: 20px; overflow: hidden;">
-    <img src="assets/company-logos/current-logo.png" alt="GeneriCorp Logo">
+    <img src="assets/company-logos/current-logo.png" alt="GeneriCorp Logo" width="300">
 </div>
 
 # GeneriCorp Dataset
@@ -13,6 +13,8 @@ Using Generative AI, I began with the initial prompt below to generate the compa
 I note this as I intended to avoid as much bias as possible. Beyond this first prompt, all other prompts are more generically positioned to produce generic documents however the Generative AI model saw fit.
 
 Speaking of the Generative AI model, I am using a combination of my personal ChatGPT Plus account with GPT-4o, but at times for convenience's sake, I choose to use the OpenAI API invoking GPT-4o-mini. I unfortunately can't be as transparent with my prompts per the work I'm doing directly in ChatGPT; however, you're more than welcome to view how I programmatically generated sets of documents using the OpenAI API within respective Jupyter notebooks in the `notebooks/` directory.
+
+(Oh yeah, the fake logos were created with Grok 2. 😂)
 
 ## Why This Dataset?
 In order to be able to sufficiently test out the capabilities of something like a fine tuned LLM or a RAG system, you need a set of data that the model has not been trained against. Unfortunately, this data can be very, very difficult to come across online given that the major LLM providers have largely scraped for that content already and have used it as part of their training data.
