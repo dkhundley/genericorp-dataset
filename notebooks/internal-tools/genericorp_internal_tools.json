@@ -1,0 +1,31 @@
+{
+    "GenOps Suite": "Enterprise Operations Management platform for handling HR, finance, procurement, and logistics. Features workflow automation, internal ticketing, and supply chain tracking.",
+    
+    "CircuitForge": "Internal hardware and firmware simulation tool used by engineering teams to design, test, and simulate industrial circuits before production. Integrates AI-powered diagnostics to predict power system failures.",
+    
+    "GridSense AI": "Smart diagnostics platform for energy infrastructure. Uses machine learning to detect inefficiencies, predict failures, and optimize energy consumption in industrial power grids.",
+    
+    "Magnus": "AI-powered technical knowledge base leveraging Retrieval-Augmented Generation (RAG) to provide engineers and field technicians with precise answers to technical questions. Integrated with the IT helpdesk chatbot for automated support.",
+    
+    "FactoryLink": "Industrial Automation Management platform that connects with IoT-enabled manufacturing plants to monitor production efficiency, equipment health, and predictive maintenance alerts.",
+    
+    "TitanFlow": "AI-powered supply chain optimization tool for tracking raw material procurement, shipping, and inventory levels. Uses demand forecasting models to minimize supply chain disruptions.",
+    
+    "GenVault": "Proprietary data storage and compliance platform. Implements zero-trust security principles and AI-driven anomaly detection for breach prevention. Features blockchain-based audit trails for tracking modifications to proprietary designs.",
+    
+    "Ethos": "Internal ethics and compliance reporting tool. Allows employees to report ethics violations, workplace concerns, and compliance issues anonymously. Uses NLP-based trend analysis to identify systemic issues.",
+    
+    "PulseMetrics": "Employee and team productivity dashboard. Tracks team performance, project progress, and employee engagement using AI-powered sentiment analysis based on survey responses and feedback.",
+    
+    "DeepRidge": "Internal AI research sandbox for R&D teams to test machine learning models on industrial data. Features secure compute clusters, automated MLOps pipelines, and a synthetic data generator.",
+    
+    "CogniBot": "AI-powered IT helpdesk assistant that provides technical support, software troubleshooting, and password resets. Leverages GeneriCorp’s Magnus RAG system to fetch internal documentation.",
+    
+    "EchoSync": "Cross-department communication hub designed for secure, real-time collaboration across global offices. Features AI-powered meeting summaries, voice transcription, and automated action item tracking.",
+    
+    "ForgeOS (Factory Operations and Grid Reliability Operating System)": "Custom real-time operating system for embedded systems and industrial controllers. Provides high-reliability firmware updates with self-healing capabilities.",
+    
+    "CodeQuorum": "Internal developer platform similar to GitHub, optimized for embedded systems, industrial automation, and AI research. Features secure DevOps pipelines, automated unit testing, and model deployment tools.",
+    
+    "HORIZON": "Next-generation R&D collaboration hub. Secure virtual workspace for engineers and AI researchers to collaborate on cutting-edge projects, including digital twin simulations, VR-based prototype walkthroughs, and AI-assisted research synthesis."
+}
