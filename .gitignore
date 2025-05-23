@@ -176,3 +176,4 @@ terraform.tfstate
 hf_temp_store/*
 .python-version
 uv.lock
+hf_staging/
